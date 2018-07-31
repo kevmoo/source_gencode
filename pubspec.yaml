@@ -1,0 +1,11 @@
+name: source_gencode
+author: Kevin Moore <github@j832.com>
+homepage: https://github.com/kevmoo/source_gencode
+
+environment:
+  sdk: '>=2.0.0-dev <3.0.0'
+
+dependencies:
+  analyzer: ^0.32.2
+  build: ^0.12.6
+  source_gen: ^0.9.0
